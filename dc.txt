@@ -1,0 +1,9 @@
+Yeni Güncellemede Neler Olacak ;
+-----
+VAC Bypass Loader'e eklendi
+Geri Bildirim sistemi getirildi
+Stopwatch sistemi getirildi (Loader'i kaç dakika veya saat kullandığınızı görebileceğiz)
+Yeni kekler eklendi 
+----
+
+GÜNCELLEME TARİHİ : 11.09.2022
